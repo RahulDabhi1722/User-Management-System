@@ -48,13 +48,13 @@ A modern, secure, and user-friendly PHP-based authentication system with registr
 ## 📸 Screenshots
 
 ### Login Page
-![Login Page](<img width="636" height="772" alt="Screenshot 2025-08-10 101247" src="https://github.com/user-attachments/assets/6da6b4f1-002e-4fd9-8864-291894904d01" />)
+<img width="636" height="772" alt="Screenshot 2025-08-10 101247" src="https://github.com/user-attachments/assets/6da6b4f1-002e-4fd9-8864-291894904d01" />
 
 ### Registration Page
-![Registration Page](<img width="490" height="925" alt="Screenshot 2025-08-10 101716" src="https://github.com/user-attachments/assets/9039be7e-9629-42e8-b206-3741286e3b9d" />)
+<img width="490" height="925" alt="Screenshot 2025-08-10 101716" src="https://github.com/user-attachments/assets/9039be7e-9629-42e8-b206-3741286e3b9d" />
 
 ### Dashboard
-![Dashboard](<img width="1086" height="848" alt="Screenshot 2025-08-10 101052" src="https://github.com/user-attachments/assets/e8413758-0435-4fc9-aa51-ec4c2bfa5079" />)
+<img width="1086" height="848" alt="Screenshot 2025-08-10 101052" src="https://github.com/user-attachments/assets/e8413758-0435-4fc9-aa51-ec4c2bfa5079" />
 
 
 ## 🚀 Installation
